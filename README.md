@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -69,3 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # Basic-CRUD-LARAVEL-
 this is basic CRUD operations using laravel, title and description only
 >>>>>>> 255084d20f1e1d23596c128865b9811bd04f0b1e
+=======
+# Basic-CRUD-LARAVEL-
+this is basic CRUD operations using laravel, title and description only
+>>>>>>> origin/master
